@@ -1,7 +1,9 @@
 - Hi, I’m @TragicCow
+- Currently working as SQL specialist 9-5
 - I’m interested in Web and Android development
 - I’m currently learning front-end development
-- How to reach me lukatamaza@gmail.com
+- looking to collaborate on any begginer friendly fun projects
+- You can  reach me at: lukatamaza@gmail.com
 
 <!---
 TragicCow/TragicCow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
